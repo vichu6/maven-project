@@ -1,5 +1,5 @@
 /**
-*This is default package
+*This is default package.
 *
 */
 package com.example;
